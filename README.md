@@ -1,2 +1,5 @@
-# Ali
-I want to learn how to code.
+# Hello World
+
+Hi Humans!
+
+Mudassir here.
